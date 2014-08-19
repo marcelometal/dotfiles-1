@@ -14,5 +14,3 @@ let g:ctrlp_custom_ignore = {
     \ 'file': '\.DS_Store$\|\.so$\|\.jpg|\.gif|\.png|\.psd$',
     \ 'link': 'SOME_BAD_SYMBOLIC_LINKS',
     \ }
-
-let g:ctrlp_max_height = 30
